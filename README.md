@@ -1,0 +1,2 @@
+# kinoquest_platinum_practice
+プラチナプラン練習用リポジトリ
